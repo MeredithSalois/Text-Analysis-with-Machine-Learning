@@ -18,7 +18,9 @@ This repository contains the project "Text Analysis with Machine Learning", whic
 <h2>Findings:</h2>
 The analysis revealed unexpected patterns, such as the prominence of discussions about video games like EA Madden NFL and NBA 2K in the dataset, overshadowing the anticipated vaccine-related debates.
 The top frequently used words included terms related to video games, highlighting the complexity and unexpected trends in Twitter discussions.
-Ethical Considerations: The project reflects on the ethical implications of AI and data analysis, emphasizing the importance of user privacy, consent, and addressing biases in the data.
+
+<h2>Ethical Considerations:</h2>
+The project reflects on the ethical implications of AI and data analysis, emphasizing the importance of user privacy, consent, and addressing biases in the data.
 
 <h2>Content:</h2>
 Appendix: Complete Python code from the Jupyter notebooks used in the analysis.
